@@ -1,0 +1,9 @@
+# No Python dependencies required for frontend
+# This frontend runs in the browser using HTML/CSS/JS
+
+# Tools used:
+# - Live Server (VS Code extension)
+# - Python http.server (for testing locally)
+
+# Optional: You can serve this with any static file server
+

@@ -1,0 +1,10 @@
+
+---
+
+## ✅ `requirements.txt` (Top-level for backend)
+
+```txt
+flask
+flask-cors
+requests
+python-dotenv

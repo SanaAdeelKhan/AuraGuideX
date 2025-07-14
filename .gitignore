@@ -11,7 +11,7 @@ venv/
 # Ignore Python cache
 __pycache__/
 *.pyc
-
+.db
 # Ignore logs and system files
 *.log
 .DS_Store
