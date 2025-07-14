@@ -1,6 +1,6 @@
 # AuraGuideX 🧠✨
 
-**Tagline:** _"Your Friend, Your Guide, Your Aura"_
+**Tagline:** _"Your Voice, Your Guide, Your Aura"_
 
 AuraGuideX is a multi-agent AI assistant designed to help people with amnesia remember people, events, and conversations. It uses local memory storage and intelligent responses, which can be embedded into wearable devices or used via browser interface.
 
